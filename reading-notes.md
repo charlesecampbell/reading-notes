@@ -1,12 +1,5 @@
 <head>Code 201 Reading Notes</head>
-Compose a short poem describing how HTTP sends data between computers.
-HTTP is an application protocol that defines a language for clients and servers to speak to each other.
-
-Component Files are websites made up of many different files, which are like the different parts of the goods and you buy from shops for your mother.
-
-Code Files are Websites built primarily from HTML, CSS and JavaScript, though your'll meet other technologies that you can pip.
-
-Assets are a collective name for all the other stuff that makes up a website, such as images, music, video, Word documents and PDFs to fancy a user's delight.
+Things I Want To Know Section:
 
 
 Describe how HTML, CSS, and JS files are “parsed” in the browser.
